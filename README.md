@@ -10,5 +10,5 @@
     3.前端展示
 
 #### 采用的一些工具，中间件
-1.数据库可视化 Studio 3T https://studio3t.com/download
-2.代码监控 Supervisor 安装npm install -g supervisor 启动supervisor bin/www
+    1.数据库可视化 Studio 3T https://studio3t.com/download
+    2.代码监控 Supervisor 安装npm install -g supervisor 启动supervisor bin/www
